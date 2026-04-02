@@ -1,0 +1,27 @@
+[
+  {
+    "product_id": "P101",
+    "name": "UltraBook Pro 15",
+    "category": "Electronics",
+    "price": 1200.0,
+    "specs": {
+      "cpu": "Intel i7",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    },
+    "tags": ["laptop", "tech", "work-from-home"],
+    "stock_quantity": 45
+  },
+  {
+    "product_id": "P102",
+    "name": "Organic Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 25.0,
+    "attributes": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["Navy", "White", "Grey"],
+      "material": "100% Organic Cotton"
+    },
+    "stock_quantity": 200
+  }
+]
